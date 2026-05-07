@@ -1,0 +1,15 @@
+{
+  "name": "flixparty-server",
+  "version": "1.0.0",
+  "description": "FlixParty sync server — real-time video sync and chat relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
